@@ -1,0 +1,32 @@
+:root {
+  /* variables */
+  --playsize: 600px
+}
+
+body {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0;
+  margin: 0;
+  font-family: sans-serif;
+  background-color: #090529;
+}
+
+#main-play-area {
+  background-color: black;
+  background-image: url(img/space.png);
+  height: var(--playsize);
+  width: var(--playsize);
+  overflow: hidden;
+}
+
+.player {
+  position: relative;
+  height: 60px;
+  width: 70px;
+  left: 20px;
+  top:250px;
+}
