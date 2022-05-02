@@ -1,6 +1,6 @@
 :root {
   /* variables */
-  --playsize: 600px
+  --play-size: 600px;
 }
 
 body {
@@ -13,14 +13,69 @@ body {
   margin: 0;
   font-family: sans-serif;
   background-color: #090529;
+  color: white;
+}
+
+kbd {
+  font-weight: 500;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 2px 4px;
+  color: whitesmoke;
+  background-color: teal;
+  border-radius: 3px;
+}
+
+h6 {
+  color: bisque;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 #main-play-area {
   background-color: black;
   background-image: url(img/space.png);
-  height: var(--playsize);
-  width: var(--playsize);
+  height: var(--play-size);
+  width: var(--play-size);
   overflow: hidden;
+  position: absolute;
+}
+
+.slide {
+  background-repeat: repeat-x;
+  animation: sliding 600s infinite linear;
+}
+
+@keyframes sliding {
+  from {
+    background-position: 0%;
+  }
+  to {
+    background-position: 5000%;
+  }
+}
+
+.game-instructions {
+  position: relative;
+  color: white;
+  left: 7rem;
+  top: 0px;
+}
+
+.start-button {
+  position: relative;
+  top: 3rem;
+  left: 15rem;
+  width: fit-content;
+}
+.start-button button {
+  background-color: aquamarine;
+  border-radius: 10px 20px;
+  cursor: pointer;
+  padding: 20px 35px;
+  font-size: large;
+}
+
+.start-button button:hover {
+  background-color: green;
 }
 
 .player {
@@ -28,11 +83,31 @@ body {
   height: 60px;
   width: 70px;
   left: 20px;
-  top:250px;
+  top: 250px;
 }
 
 .laser {
   position: relative;
   width: 40px;
   height: 30px;
+  /* border: lightgreen solid 1px; */
+}
+
+.enemy {
+  position: relative;
+  width: 60px;
+  height: 70px;
+  /* border: lightgreen solid 1px; */
+}
+
+.enemy-transition {
+  opacity: 1;
+  transition: opacity 1.5s ease-in-out;
+}
+
+.dead-enemy {
+  position: relative;
+  width: 60px;
+  height: 70px;
+  opacity: 0;
 }
