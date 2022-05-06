@@ -42,7 +42,7 @@ Made by
 
 [![@dam450][ghtag]](https://github.com/dam450)
 
-
+<!-- Images -->
 [preview]: /docs/space.gif "Preview do jogo"
 [langs]: https://img.shields.io/github/languages/count/dam450/space-shooter?style=plastic "Linguagens utilizadas"
 [html5]: https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=fff&style=for-the-badge "HTML5 badge"
