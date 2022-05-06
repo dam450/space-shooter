@@ -12,7 +12,7 @@ var shipSpeed = 50; // default 50
 
 /**
  * função de movimento e tiro da nave
- * @param {KeyboardEvent} event evento do teclado (objeto com detalhes da tecla precionada);
+ * @param {KeyboardEvent} event evento do teclado (objeto com detalhes da tecla pressionada);
  */
 function flyShip(event) {
     if (event.key === 'ArrowUp') {
