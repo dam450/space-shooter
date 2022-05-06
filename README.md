@@ -1,6 +1,6 @@
 # 👾 Space Shooter
 
-[Descrição](#-descrição) | [Preview](#%EF%B8%8F-preview) | [Linguagens](#-linguagens) | [Tarefas](#-tarefas) 
+[Descrição](#-descrição) | [Preview](#%EF%B8%8F-preview) | [Ferramentas](#-ferramentas) | [Tarefas](#-tarefas) 
 
 ---
 ### 📌 Descrição
@@ -15,9 +15,13 @@ Para jogar [clique aqui](https://dam450.dev/space-shooter/).
 ![Preview do jogo space shooter][preview]
 
 ---
-### 🐛 Linguagens
+### 🧰 Ferramentas 
 
-html5, javascript. css3.
+Linguagens e ferramentas utilizadas:
+
+[![HTML Badge](https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=fff&style=for-the-badge) ![CSS Badge](https://img.shields.io/badge/css3-1572B6?logo=CSS3&logoColor=fff&style=for-the-badge) ![JS Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge)](#)
+
+
 
 ---
 ### ✅ Tarefas
@@ -34,6 +38,9 @@ html5, javascript. css3.
 
 
 ---
-Criado por [@dam450](https://github.com/dam450).
+made by [@dam450](https://github.com/dam450).
+
+---
 
 [preview]: /docs/space.gif "Preview do jogo"
+[![GitHub language count](https://img.shields.io/github/languages/count/dam450/space-shooter?style=plastic)](#)
