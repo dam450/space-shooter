@@ -1,6 +1,6 @@
 # 👾 Space Shooter
 
-[Descrição](#-descri%C3%A7%C3%A3o) | [Preview](#%EF%B8%8F-preview) | [Tarefas](#-tarefas) 
+[Descrição](#-descrição) | [Preview](#%EF%B8%8F-preview) | [Linguagens](#-linguagens) | [Tarefas](#-tarefas) 
 
 ---
 ### 📌 Descrição
@@ -15,9 +15,15 @@ Para jogar [clique aqui](https://dam450.dev/space-shooter/).
 ![Preview do jogo space shooter][preview]
 
 ---
+### 🐛 Linguagens
+
+html5, javascript. css3.
+
+---
 ### ✅ Tarefas
 
 - [x] Mensagem de Game over temporizada
+- [x] instruções de como jogar
 - [x] Animação do fundo
 - [x] Estilização do botão de inicio
 - [ ] Pontuação
