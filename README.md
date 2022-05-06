@@ -1,6 +1,8 @@
+[![lings][langs]](#)
+
 # 👾 Space Shooter
 
-[Descrição](#-descrição) | [Preview](#%EF%B8%8F-preview) | [Ferramentas](#-ferramentas) | [Tarefas](#-tarefas) 
+[Descrição](#-descrição) ◊ [Preview](#%EF%B8%8F-preview) ◊ [Ferramentas](#-ferramentas) ◊ [Tarefas](#-tarefas) 
 
 ---
 ### 📌 Descrição
@@ -28,7 +30,7 @@ Linguagens e ferramentas utilizadas:
 - [x] instruções de como jogar
 - [x] Animação do fundo
 - [x] Estilização do botão de inicio
-- [ ] Pontuação
+- [ ] Pontuação do jogo
 
 
 
@@ -40,18 +42,13 @@ Made by
 
 [![@dam450][ghtag]](https://github.com/dam450)
 
----
-
-[![lings][langs]](#)
-
-
 
 [preview]: /docs/space.gif "Preview do jogo"
 [langs]: https://img.shields.io/github/languages/count/dam450/space-shooter?style=plastic "Linguagens utilizadas"
-[html5]: https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=fff&style=for-the-badge "html5 badge"
-[css3]: https://img.shields.io/badge/css3-1572B6?logo=CSS3&logoColor=fff&style=for-the-badge "css3 badge"
+[html5]: https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=fff&style=for-the-badge "HTML5 badge"
+[css3]: https://img.shields.io/badge/css3-1572B6?logo=CSS3&logoColor=fff&style=for-the-badge "CSS3 badge"
 [js]: https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge "javascript badge"
-[ghtag]: https://img.shields.io/badge/Dam450-181717?logo=GitHub&logoColor=fff&style=for-the-badge "github tag"
+[ghtag]: https://img.shields.io/badge/Dam450-181717?logo=GitHub&logoColor=fff&style=for-the-badge "GitHub tag of Dam450"
 
 
 
