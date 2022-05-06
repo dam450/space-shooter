@@ -33,10 +33,6 @@ Linguagens e ferramentas utilizadas:
 - [ ] Pontuação do jogo
 
 
-
-
-
-
 ---
 Made by 
 
@@ -50,7 +46,11 @@ Made by
 [js]: https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge "javascript badge"
 [ghtag]: https://img.shields.io/badge/Dam450-181717?logo=GitHub&logoColor=fff&style=for-the-badge "GitHub tag of Dam450"
 
-
+<!--
+Sites para gerar as tags
+https://shields.io/
+https://simpleicons.org/
+-->
 
 
 
