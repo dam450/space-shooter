@@ -25,4 +25,9 @@ Para jogar [clique aqui](https://dam450.dev/space-shooter/).
 
 
 
+
+
+---
+Criado por [@dam450](https://github.com/dam450).
+
 [preview]: /docs/space.gif "Preview do jogo"
