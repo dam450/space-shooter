@@ -221,6 +221,10 @@ function gameOver() {
     lasers.forEach((laser) => { laser.remove() });
 }
 
+/**
+ * função que apresenta a mensagem de fim de jogo
+ * @param {*} time segundos que a mensagem será apresentada
+ */
 function gameOverMessage(time) {
     time *= 1000;
     let gameOver = document.createElement('h1');
@@ -231,7 +235,8 @@ function gameOverMessage(time) {
     //gameOver.classList.add('game-instructions')
     playArea.appendChild(gameOver);
     setTimeout(() => {
-        playArea.removeChild(playArea.lastElementChild);
+        playArea.removeChild( // remove um elemento
+            playArea.lastElementChild); // neste caso, o ultimo elemento criado.
     }, time);
 
 }
