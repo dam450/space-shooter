@@ -44,7 +44,8 @@ Linguagens e ferramentas utilizadas:
 
 ---
 
-Made by: &nbsp;&nbsp;&nbsp; 
+#### Made by
+
 [![@Dam450][gh-tag]](https://github.com/dam450)
 
 <!-- Images -->
