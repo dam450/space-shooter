@@ -1,13 +1,17 @@
-[![lings][langs]](#)
-
 # 👾 Space Shooter
 
-[Descrição](#-descrição) ◊ [Preview](#%EF%B8%8F-preview) ◊ [Ferramentas](#-ferramentas) ◊ [Tarefas](#-tarefas) 
+[Descrição](#-descrição)&nbsp;&nbsp;&nbsp;◊&nbsp;&nbsp;&nbsp; 
+[Preview](#%EF%B8%8F-preview)&nbsp;&nbsp;&nbsp;◊&nbsp;&nbsp;&nbsp;
+[Tecnologias](#-tecnologias)&nbsp;&nbsp;&nbsp;◊&nbsp;&nbsp;&nbsp;
+[Tarefas](#-tarefas) 
+
+
+[![langs-tag][langs]](#) [![lic-tag][license]](#)
 
 ---
 ### 📌 Descrição
 
-Repositório do projeto prático proposto no Bootcamp da DIO, ministrada pela especialista Gabriela Pinheiro @SpruceGabriela, com o desafio de desenvolver um jogo de tiro de naves, utilizando HTML, CSS and Javascript.
+Repositório do projeto prático proposto no Bootcamp da DIO, ministrada pela especialista Gabriela Pinheiro @SpruceGabriela, com o desafio de desenvolver um jogo de tiro de naves, utilizando HTML, CSS and Javascript (Vanilla).
 
 ---
 ### 🎞️ Preview
@@ -17,11 +21,11 @@ Para jogar [clique aqui](https://dam450.dev/space-shooter/).
 ![Preview do jogo space shooter][preview]
 
 ---
-### 🧰 Ferramentas 
+### 🧰 Tecnologias 
 
 Linguagens e ferramentas utilizadas:
 
-[![HTML Badge][html5] ![CSS Badge][css3] ![JS Badge][js]](#)
+[![HTML-Badge][html5] ![CSS-Badge][css3] ![JS-Badge][js]](#)
 
 ---
 ### ✅ Tarefas
@@ -44,7 +48,10 @@ Made by
 [html5]: https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=fff&style=for-the-badge "HTML5 badge"
 [css3]: https://img.shields.io/badge/css3-1572B6?logo=CSS3&logoColor=fff&style=for-the-badge "CSS3 badge"
 [js]: https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge "javascript badge"
-[ghtag]: https://img.shields.io/badge/Dam450-181717?logo=GitHub&logoColor=fff&style=for-the-badge "GitHub tag of Dam450"
+[ghtag]: https://img.shields.io/badge/Dam450-181717?logo=GitHub&logoColor=fff&style=for-the-badge "Dam450's GitHub Tag"
+[license]: https://img.shields.io/github/license/dam450/space-shooter?style=plastic "License badge"
+
+
 
 <!--
 Sites para gerar as tags
