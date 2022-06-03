@@ -6,7 +6,7 @@
 [Tarefas](#-tarefas) 
 
 
-[![langs-tag][langs]](#) [![lic-tag][license]](#)
+[![langs-tag][langs]](#) [![lic-tag][license]](#-licença)
 
 ---
 ### 📌 Descrição
@@ -36,6 +36,10 @@ Linguagens e ferramentas utilizadas:
 - [x] Estilização do botão de inicio
 - [ ] Pontuação do jogo
 
+---
+### 📄 Licença
+
+- Consulte a licença [aqui](./LICENSE.md)
 
 ---
 Made by 
@@ -50,8 +54,6 @@ Made by
 [js]: https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge "javascript badge"
 [ghtag]: https://img.shields.io/badge/Dam450-181717?logo=GitHub&logoColor=fff&style=for-the-badge "Dam450's GitHub Tag"
 [license]: https://img.shields.io/github/license/dam450/space-shooter?style=plastic "License badge"
-
-
 
 <!--
 Sites para gerar as tags
